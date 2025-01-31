@@ -12,6 +12,9 @@ This project involves advanced SQL queries and analytics on the `classicmodels` 
 - **products**: Contains product information.
 - **productlines**: Defines categories of products.
 
+
+![demo_er_diagram_img](https://github.com/user-attachments/assets/5b2f7da6-179e-491c-bf81-069b939e9ee3)
+
 ## **Key Analysis Performed**
 ### **1. Revenue and Sales Analysis**
 - Total revenue generated per office.
